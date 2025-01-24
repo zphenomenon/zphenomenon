@@ -1,6 +1,3 @@
-Here's the complete README.md that shows everything as a profile rather than code:
-
-```markdown
 # 👋 Hi, I'm Zim
 
 Senior Software Developer crafting intelligent systems at the intersection of traditional engineering and AI.
